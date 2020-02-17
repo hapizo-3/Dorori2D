@@ -449,6 +449,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dceb49d0fb0ed704f9104b8a9f1fcd86, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  debugMode: 1
   jumpPower: 300
   moveSpeed: 10
   ballObject: {fileID: 2531652512386597024, guid: 44c4dda6c7432644181f0937b04064dd,
